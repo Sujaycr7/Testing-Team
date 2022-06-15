@@ -15,6 +15,12 @@ public class GitDemo
 		
 		
 	}
+	public void m3()
+	{
+		System.out.println("HEllO M3");
+		
+		
+	}
 public static void main(String[] args) 
 {
 
