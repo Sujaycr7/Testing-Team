@@ -21,7 +21,7 @@ public class GitDemo
 		
 		
 	}
-	public void m2()
+	public void m4()
 	{
 		System.out.println("change prashant");
 		
