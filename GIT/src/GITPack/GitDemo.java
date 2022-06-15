@@ -21,12 +21,8 @@ public class GitDemo
 		
 		
 	}
-	public void m2()
-	{
-		System.out.println("change prashant");
-		
-		
-	}
+
+
 public static void main(String[] args) 
 {
 
