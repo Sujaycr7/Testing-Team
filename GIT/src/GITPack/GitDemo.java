@@ -21,7 +21,12 @@ public class GitDemo
 		
 		
 	}
-
+public void m4()
+	{
+		System.out.println("HEllO M4");
+		
+		
+	}
 
 public static void main(String[] args) 
 {
