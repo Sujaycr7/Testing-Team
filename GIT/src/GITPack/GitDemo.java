@@ -9,6 +9,12 @@ public class GitDemo
 		
 		
 	}
+	public void m2()
+	{
+		System.out.println("HEllO M2");
+		
+		
+	}
 public static void main(String[] args) 
 {
 
